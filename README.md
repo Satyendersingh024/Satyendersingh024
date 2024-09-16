@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Satyender</h1>
-<h3 align="center">A passionate Data Science Graduate from India.</h3>
-<p align="center">
-  <img src="(https://leviarista.github.io/github-profile-header-generator/)" alt="Header image" width="100%" />
-</p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Satyender! 
+*Passionate Data science Graduate*
+<br /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyendersingh024&label=Profile%20views&color=0e75b6&style=flat" alt="satyendersingh024" /> </p>
 
 - 🔭 I’m currently working on **Ridge,Lasso And ElasticNet ML ALgorithm**
