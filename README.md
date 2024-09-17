@@ -1,15 +1,14 @@
-<!--GIT image-->
-<div>
-  <img align="right" width="30%" style="margin-top: 50px;" src="https://github.com/Satyendersingh024/Satyendersingh024/blob/main/pngimg.com%20-%20github_PNG90.png">
-</div>
-
-
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Satyender! 
 *Passionate Data science Graduate*
 <br /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyendersingh024&label=Profile%20views&color=0e75b6&style=flat" alt="satyendersingh024" /> </p>
+
+<!--GIT image-->
+<div>
+  <img align="right" width="30%" style="margin-top: 50px;" src="https://github.com/Satyendersingh024/Satyendersingh024/blob/main/pngimg.com%20-%20github_PNG90.png">
+</div>
+
 
 - 🔭 I’m currently working on **Ridge,Lasso And ElasticNet ML ALgorithm**
 
