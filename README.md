@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-  <img align="right" width="30%" style="margin-top: 50px;" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="30%" style="margin-top: 50px;" src="https://github.com/Satyendersingh024/Satyendersingh024/blob/main/pngimg.com%20-%20github_PNG90.png">
 </div>
 
 
