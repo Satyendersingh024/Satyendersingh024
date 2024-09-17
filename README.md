@@ -27,8 +27,14 @@
 
 
 - 📫 How to reach me **satyendersingh042@gmail.com**
+  
  ---
-
+<h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Satyendersingh024/Satyendersingh024/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/satyender-singh-56baa21b2/" target="blank">
@@ -60,4 +66,3 @@
 </p>
 
 
-![snake gif](https://github.com/Satyendersingh024/Satyendersingh024/blob/output/github-contribution-grid-snake.gif)
