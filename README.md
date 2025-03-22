@@ -10,12 +10,6 @@
 </div>
 
 
-- 🔭 I’m currently working on **Ridge,Lasso And ElasticNet ML ALgorithm**
-
-
-
-- 🌱 I’m currently learning **LSTM And GRU indepth**
-
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satyendersingh024](https://github.com/Satyendersingh024)
