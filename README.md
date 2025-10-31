@@ -1,6 +1,6 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Satyender! 
-*Passionate Data science Graduate*
+
 <br /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyendersingh024&label=Profile%20views&color=0e75b6&style=flat" alt="satyendersingh024" /> </p>
 
@@ -16,7 +16,7 @@
 
 
 
-- 💬 Ask me about **Data Science and Analytics Machine Learning Algorithms ||Data Visualization Techniques|| Python for Data Science ||Problem-Solving with Data-Driven Approaches ||Exploring Internship and Job Opportunities in Data Science**
+
 
 
 
