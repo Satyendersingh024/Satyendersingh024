@@ -41,7 +41,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyendersingh024&show_icons=true&locale=en&layout=compact" alt="satyendersingh024" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyendersingh024&show_icons=true&locale=en" alt="satyendersingh024" /></p>
 
