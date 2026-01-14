@@ -42,10 +42,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyendersingh024&show_icons=true&locale=en" alt="satyendersingh024" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyendersingh024&" alt="satyendersingh024" /></p>
 
 <!--Footer--> 
 <p align="center">
